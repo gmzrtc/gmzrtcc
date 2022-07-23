@@ -1,0 +1,2 @@
+# gmzrtcc
+Mavi tik
